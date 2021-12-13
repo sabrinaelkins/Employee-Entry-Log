@@ -1,5 +1,5 @@
 {
-    "name": "employee-tracker 2.0",
+    "name": "employee-entry-log",
     "version": "1.0.0",
     "main": "server.js",
     "dependencies": {
