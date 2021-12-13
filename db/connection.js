@@ -6,7 +6,7 @@ const db = mysql.createEmployeefinder({
     // Your MySQL username,
     user: 'root',
     // Your MySQL password
-    password: 'hql831$pah',
+    password: 'password',
     database: 'employeefinder'
   });
   
