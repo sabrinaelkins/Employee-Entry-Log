@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS employee finder;
-CREATE DATABASE employee finder;
-USE employee finder;
+DROP DATABASE IF EXISTS employeefinder;
+CREATE DATABASE employeefinder;
+USE employeefinder;
