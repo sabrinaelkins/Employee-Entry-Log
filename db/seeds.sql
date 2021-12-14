@@ -1,3 +1,4 @@
+
 INSERT INTO department
   (name)
 VALUES
@@ -25,3 +26,6 @@ VALUES
 © 2021 GitHub, Inc.
 Terms
 Privacy
+Security
+Status
+Docs
