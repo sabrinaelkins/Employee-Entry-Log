@@ -22,10 +22,3 @@ VALUES
   ('Preston', 'Hughes', 1, 1),
   ('Quentin', 'Elkins', 3, null),
   ('Andrea', 'Rideout', 5, null);
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
